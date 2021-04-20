@@ -11,6 +11,9 @@ import 'package:http/http.dart' as http;
 //USERS AND PASSWORDS TO USE
 const users = const {
   'Ruben@gmail.com':'contra132',
+  'Carlos@gmail.com':'contra1234',
+  'Edu@gmail.com':'contra134',
+  'Javi@gmail.com':'contra',
 };
 
 class login extends StatelessWidget {
